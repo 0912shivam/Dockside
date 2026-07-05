@@ -28,46 +28,26 @@ It is intended for developers who want to:
 
 Docker is especially useful here because it removes environment drift, standardizes startup behavior, and makes it easy to share a working runtime with one command. Even for a tiny project like Dockside, that discipline is valuable because it mirrors how real services are packaged in production.
 
----
-
-## Demo Screenshot
-
-No screenshots currently exist in this repository.
-
-If you add one later, place it here:
-
-- `docs/images/home.png`
-
-Recommended usage in the README:
-
-```md
-![Dockside home screen](docs/images/home.png)
-```
-
-> Tip: If you capture terminal or browser screenshots, keep them lightweight and place them under `docs/images/` so the repository stays organized.
-
----
 
 ## Table of Contents
 
 - [1. Hero Section](#hero-section)
 - [2. Overview](#overview)
-- [3. Demo Screenshot](#demo-screenshot)
-- [4. Table of Contents](#table-of-contents)
-- [5. Features](#features)
-- [6. System Architecture](#system-architecture)
-- [7. Application Workflow](#application-workflow)
-- [8. Technology Stack](#technology-stack)
-- [9. Project Structure](#project-structure)
-- [10. Getting Started](#getting-started)
-- [11. Running Locally](#running-locally)
-- [12. Running with Docker](#running-with-docker)
-- [13. API Documentation](#api-documentation)
-- [14. Dockerfile Breakdown](#dockerfile-breakdown)
-- [15. What You'll Learn](#what-youll-learn)
-- [16. Future Enhancements](#future-enhancements)
-- [17. Conclusion](#conclusion)
-- [18. License](#license)
+- [3. Table of Contents](#table-of-contents)
+- [4. Features](#features)
+- [5. System Architecture](#system-architecture)
+- [6. Application Workflow](#application-workflow)
+- [7. Technology Stack](#technology-stack)
+- [8. Project Structure](#project-structure)
+- [9. Getting Started](#getting-started)
+- [10. Running Locally](#running-locally)
+- [11. Running with Docker](#running-with-docker)
+- [12. API Documentation](#api-documentation)
+- [13. Dockerfile Breakdown](#dockerfile-breakdown)
+- [14. What You'll Learn](#what-youll-learn)
+- [15. Future Enhancements](#future-enhancements)
+- [16. Conclusion](#conclusion)
+- [17. License](#license)
 
 ---
 
@@ -361,12 +341,9 @@ That makes it a strong foundation for larger containerized applications, especia
 
 This repository does not currently include a license file.
 
-If you want to make the project easier to reuse publicly, the MIT License is a strong default choice.
-
 | Option | Status |
 | --- | --- |
 | Current state | No license file present |
-| Recommended license | MIT License |
 
 ---
 
