@@ -58,9 +58,9 @@ docker run -p 3000:3000 dockside
 - `Dockerfile` - builds the container image
 - `package.json` - project metadata and npm scripts
 
-## Suggested Next Steps
+##  Next Steps
 
-If you want to grow this project, the next natural upgrades would be:
+ To grow this project, the next natural upgrades would be:
 
 - Add routing with Express
 - Serve an HTML landing page instead of plain text
